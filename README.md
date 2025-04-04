@@ -2,7 +2,7 @@
 
 Hello, I'm Joe Ton. I'm a full-stack systems engineer and aspiring solutions architect based in Washington State. My expertise spans across system-level programming, machine learning pipelines, and full-stack development — with a growing focus on edge computing, vector databases, and AI infrastructure.
 
-I use this GitHub account for collobrations (open source), practice (ai-daily), and tooling (neovim, alacritty, Makefiles). My personal stuff is elsewhere, and under different usernames. 
+I use this GitHub account for collobrations (open source), website (tonindustries.com), practice (ai-daily), and tooling (neovim, alacritty, Makefiles). My personal stuff is elsewhere, and under different usernames. 
 
 If you're into systems engineering, product dev, or architecting end-to-end AI pipelines, let's connect!
 
