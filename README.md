@@ -12,3 +12,6 @@ If you're into systems engineering, product dev, or architecting end-to-end AI p
 
 🔒 Passionate about:  
 Clean architecture · Privacy-first tooling · Performance optimization · Edge computing · Technical product strategy
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&rank_icon=default)
+
