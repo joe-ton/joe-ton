@@ -13,7 +13,8 @@ If you're into systems engineering, product dev, or architecting end-to-end AI p
 🔒 Passionate about:  
 Clean architecture · Privacy-first tooling · Performance optimization · Edge computing · Technical product strategy
 
-![Metrics](https://github.com/joe-ton/joe-ton/blob/main/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/joe-ton/joe-ton/main/github-metrics.svg)
+
 
 
 
