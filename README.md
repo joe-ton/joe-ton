@@ -1,10 +1,10 @@
 # 👋 joe-ton
 
-Hello, I'm Joe Ton. I'm a full-stack systems engineer and aspiring solutions architect based in Washington State. My expertise spans across system-level programming, machine learning pipelines, and full-stack development — with a growing focus on edge computing, vector databases, and AI infrastructure.  Very interested in MCP (Model Context Protocol) right now!
+Hi, I'm Joe Ton. I'm a full-stack AI systems engineer focused on solutions architecture, based in Washington State. My experience includes system-level programming, machine learning pipelines, and full-stack development — with current interests in edge computing, vector databases, AI infrastructure, and exploring MCP (Model Context Protocol).
 
-I use this GitHub account for collobrations (open source), website (tonindustries.com), practice (ai-daily), and tooling (neovim, alacritty, Makefiles). My personal stuff is elsewhere, and under different usernames. 
+I use this GitHub account for collaborations (open source), my website (tonindustries.com), daily practice (ai-daily), and tooling (neovim, alacritty, Makefiles). My personal stuff is kept elsewhere under different usernames.
 
-If you're into systems engineering, product dev, or architecting end-to-end AI pipelines, let's connect!
+If you're interested in systems engineering, product development, or architecting end-to-end AI pipelines, feel free to reach out!
 
 ---
 🧰 Tech Highlights:  
