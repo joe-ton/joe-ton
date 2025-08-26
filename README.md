@@ -6,7 +6,7 @@ Optimizing GPU kernels and compilers for applications in artificial intelligence
 
 ---
 🧰 Tech Highlights:  
-`Rust`, `Go`, `Python`, `TypeScript`, `Flutter`, `PostgreSQL`, `Clickhouse`, `Docker`, `Linux`, `Mojo`, `Axum`, `React`
+`C++`, `Python`, `Rust`, `Mojo`
 
 🔒 Passionate about:  
 Clean architecture · Privacy-first tooling · Performance optimization · Edge computing · Technical product strategy
