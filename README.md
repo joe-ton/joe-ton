@@ -1,10 +1,8 @@
 # 👋 joe-ton
 
-Hi, I'm Joe Ton. I am an AI Infrastructure Engineer.
+Hi, I'm Joe Ton. I am an Engineer.
 
-I use this GitHub account for collaborations (open source), my website (tonindustries.com), daily practice (ai-daily), and tooling (neovim, alacritty, Makefiles). My personal stuff is kept elsewhere under different usernames.
-
-If you're interested in systems engineering, product development, or architecting end-to-end AI pipelines, feel free to reach out!
+Optimizing GPU kernels and compilers for applications in artificial intelligence, gaming, and robotics. Dedicated to disseminating in-depth analyses of relevant research.
 
 ---
 🧰 Tech Highlights:  
