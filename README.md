@@ -1,7 +1,7 @@
 # 👋 joe-ton
 
-Hi, I'm Joe Ton. I am an Engineer.
+I am an AI Performance Engineer.
 
-Optimizing GPU kernels and compilers for applications in artificial intelligence, gaming, and robotics. Dedicated to disseminating in-depth analyses of relevant research.
+I take optimization techniques and achieve better efficiencies on hardware, software, and models. For example, I often take recent performance papers and apply them on servers to produce findings.
 
 ---
